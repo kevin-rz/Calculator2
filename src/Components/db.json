@@ -1,0 +1,22 @@
+{
+    "prices": [
+        {
+            "id": 1,
+            "name": "jr",
+            "in-house-price": 65,
+            "near-off-site": 30,
+            "near-on-site": 70,
+            "off-off-site": 25,
+            "off-on-site": 75
+        },
+        {
+            "id": 1,
+            "name": "jr",
+            "in-house-price": 65,
+            "near-off-site": 30,
+            "near-on-site": 70,
+            "off-off-site": 25,
+            "off-on-site": 75
+        }
+    ]
+}
